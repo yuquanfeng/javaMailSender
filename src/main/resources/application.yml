@@ -1,0 +1,11 @@
+spring:
+  mail:
+    host: smtp.163.com
+    username: 13588730966@163.com
+    password: yqf1049801106
+    enable:  true
+    smtp:
+      auth: true
+    starttls:
+      enable: true
+      required: true
